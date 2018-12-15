@@ -26,4 +26,4 @@ Hopefully this blog is full of hope, love, and encouragement to get you through 
 
 Thanks for reading :)
 
-![](/img/nick_signature.svg)
+![null](/img/nick_signature.svg)
